@@ -1,0 +1,12 @@
+EvolvedRecipeName_EN = {
+	EvolvedRecipeName_Base.CannedBologneseOpen = "Κονσέρβα Μπολονέζ",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "Κονσέρβα Καρότα",
+	EvolvedRecipeName_Base.CannedChiliOpen = "Κονσέρβα Τσίλι",
+	EvolvedRecipeName_Base.CannedCornOpen = "Κονσέρβα Καλαμπόκι",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "Κονσέρβα Corned Beef",
+	EvolvedRecipeName_Base.CannedPeasOpen = "Κονσέρβα Αρακά",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "Κονσέρβα Πατάτας",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "Κονσέρβα Σαρδέλες",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "Κονσέρβα Ντομάτας",
+	EvolvedRecipeName_Base.Teabag2 = "Τσάι",
+}
