@@ -542,7 +542,7 @@ ContextMenu_EN = {
     ContextMenu_EnableAutodrink = "Enable Autodrink",
     ContextMenu_DisableAutodrink = "Disable Autodrink",
 	ContextMenu_PumpFuelAmount = "Fuel Pump Amount Remaining",
-    ContextMenu_TooComplicated = "Το επίπεδο Ικανότητας είναι πολύ χαμηλό για να το διαβάσεις",
+    ContextMenu_TooComplicated = "Skill level too low to read",
     ContextMenu_Illiterate = "You're illiterate",
     ContextMenu_AmmoType = "Τύπος Πυρομαχικών",
 } 
