@@ -1,28 +1,28 @@
 MultiStageBuild_EN = {
     -- Wooden Wall
-    MultiStageBuild_CreateWoodenWall_1 = "Ξ”Ξ·ΞΌΞΉΞΏΟΟΞ³Ξ·ΟƒΞµ ΞΟΞ»ΞΉΞ½ΞΏ Ξ¤ΞΏΞ―Ο‡ΞΏ EΟ€. 1",
-    MultiStageBuild_UpgradeWoodenWall_1To2 = "Ξ‘Ξ½Ξ±Ξ²Ξ¬ΞΈΞΌΞΉΟƒΞµ ΟƒΞµ ΞΟΞ»ΞΉΞ½ΞΏ Ξ¤ΞΏΞ―Ο‡ΞΏ EΟ€. 2",
-    MultiStageBuild_CreateWoodenWall_2 = "Ξ”Ξ·ΞΌΞΉΞΏΟΟΞ³Ξ·ΟƒΞµ ΞΟΞ»ΞΉΞ½ΞΏ Ξ¤ΞΏΞ―Ο‡ΞΏ EΟ€. 2",
-    MultiStageBuild_UpgradeWoodenWall_1To3 = "Ξ‘Ξ½Ξ±Ξ²Ξ¬ΞΈΞΌΞΉΟƒΞµ ΟƒΞµ ΞΟΞ»ΞΉΞ½ΞΏ Ξ¤ΞΏΞ―Ο‡ΞΏ EΟ€. 3",
-    MultiStageBuild_UpgradeWoodenWall_2To3 = "Ξ‘Ξ½Ξ±Ξ²Ξ¬ΞΈΞΌΞΉΟƒΞµ ΟƒΞµ ΞΟΞ»ΞΉΞ½ΞΏ Ξ¤ΞΏΞ―Ο‡ΞΏ EΟ€. 3",
-    MultiStageBuild_CreateWoodenWall_3 = "Ξ”Ξ·ΞΌΞΉΞΏΟΟΞ³Ξ·ΟƒΞµ ΞΟΞ»ΞΉΞ½ΞΏ Ξ¤ΞΏΞ―Ο‡ΞΏ EΟ€. 3",
+    MultiStageBuild_CreateWoodenWall_1 = "Δημιούργησε Ξύλινο Τοίχο Eπ. 1",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "Αναβάθμισε σε Ξύλινο Τοίχο Eπ. 2",
+    MultiStageBuild_CreateWoodenWall_2 = "Δημιούργησε Ξύλινο Τοίχο Eπ. 2",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "Αναβάθμισε σε Ξύλινο Τοίχο Eπ. 3",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "Αναβάθμισε σε Ξύλινο Τοίχο Eπ. 3",
+    MultiStageBuild_CreateWoodenWall_3 = "Δημιούργησε Ξύλινο Τοίχο Eπ. 3",
     -- Wooden Window
-    MultiStageBuild_CreateWoodenWindow_1 = "Ξ”Ξ·ΞΌΞΉΞΏΟΟΞ³Ξ·ΟƒΞµ ΞΟΞ»ΞΉΞ½ΞΏ Ξ Ξ±ΟΞ¬ΞΈΟ…ΟΞΏ EΟ€. 1",
-    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Ξ‘Ξ½Ξ±Ξ²Ξ¬ΞΈΞΌΞΉΟƒΞµ ΟƒΞµ ΞΟΞ»ΞΉΞ½ΞΏ Ξ Ξ±ΟΞ¬ΞΈΟ…ΟΞΏ EΟ€. 2",
-    MultiStageBuild_CreateWoodenWindow_2 = "Ξ”Ξ·ΞΌΞΉΞΏΟΟΞ³Ξ·ΟƒΞµ ΞΟΞ»ΞΉΞ½ΞΏ Ξ Ξ±ΟΞ¬ΞΈΟ…ΟΞΏ EΟ€. 2",
-    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Ξ‘Ξ½Ξ±Ξ²Ξ¬ΞΈΞΌΞΉΟƒΞµ ΟƒΞµ ΞΟΞ»ΞΉΞ½ΞΏ Ξ Ξ±ΟΞ¬ΞΈΟ…ΟΞΏ EΟ€. 3",
-    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Ξ‘Ξ½Ξ±Ξ²Ξ¬ΞΈΞΌΞΉΟƒΞµ ΟƒΞµ ΞΟΞ»ΞΉΞ½ΞΏ Ξ Ξ±ΟΞ¬ΞΈΟ…ΟΞΏ EΟ€. 3",
-    MultiStageBuild_CreateWoodenWindow_3 = "Ξ”Ξ·ΞΌΞΉΞΏΟΟΞ³Ξ·ΟƒΞµ ΞΟΞ»ΞΉΞ½ΞΏ Ξ Ξ±ΟΞ¬ΞΈΟ…ΟΞΏ EΟ€. 3",
+    MultiStageBuild_CreateWoodenWindow_1 = "Δημιούργησε Ξύλινο Παράθυρο Eπ. 1",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Αναβάθμισε σε Ξύλινο Παράθυρο Eπ. 2",
+    MultiStageBuild_CreateWoodenWindow_2 = "Δημιούργησε Ξύλινο Παράθυρο Eπ. 2",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Αναβάθμισε σε Ξύλινο Παράθυρο Eπ. 3",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Αναβάθμισε σε Ξύλινο Παράθυρο Eπ. 3",
+    MultiStageBuild_CreateWoodenWindow_3 = "Δημιούργησε Ξύλινο Παράθυρο Eπ. 3",
     -- Metal Wall
-    MultiStageBuild_CreateMetalWall_1 = "Ξ”Ξ·ΞΌΞΉΞΏΟΟΞ³Ξ·ΟƒΞµ ΞΞµΟ„Ξ±Ξ»Ξ»ΞΉΞΊΟ Ξ¤ΞΏΞ―Ο‡ΞΏ EΟ€. 1",
-    MultiStageBuild_UpgradeMetalWall_1To2 = "Ξ‘Ξ½Ξ±Ξ²Ξ¬ΞΈΞΌΞΉΟƒΞµ ΟƒΞµ ΞΞµΟ„Ξ±Ξ»Ξ»ΞΉΞΊΟ Ξ¤ΞΏΞ―Ο‡ΞΏ EΟ€. 2",
-    MultiStageBuild_CreateMetalWall_2 = "Ξ”Ξ·ΞΌΞΉΞΏΟΟΞ³Ξ·ΟƒΞµ ΞΞµΟ„Ξ±Ξ»Ξ»ΞΉΞΊΟ Ξ¤ΞΏΞ―Ο‡ΞΏ EΟ€. 2",
+    MultiStageBuild_CreateMetalWall_1 = "Δημιούργησε Μεταλλικό Τοίχο Eπ. 1",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "Αναβάθμισε σε Μεταλλικό Τοίχο Eπ. 2",
+    MultiStageBuild_CreateMetalWall_2 = "Δημιούργησε Μεταλλικό Τοίχο Eπ. 2",
     -- Metal Window
-    MultiStageBuild_CreateMetalWindow_1 = "Ξ”Ξ·ΞΌΞΉΞΏΟΟΞ³Ξ·ΟƒΞµ ΞΞµΟ„Ξ±Ξ»Ξ»ΞΉΞΊΟ Ξ Ξ±ΟΞ¬ΞΈΟ…ΟΞΏ EΟ€. 1",
-    MultiStageBuild_UpgradeMetalWindow_1To2 = "Ξ‘Ξ½Ξ±Ξ²Ξ¬ΞΈΞΌΞΉΟƒΞµ ΟƒΞµ ΞΞµΟ„Ξ±Ξ»Ξ»ΞΉΞΊΟ Ξ Ξ±ΟΞ¬ΞΈΟ…ΟΞΏ EΟ€. 2",
-    MultiStageBuild_CreateMetalWindow_2 = "Ξ”Ξ·ΞΌΞΉΞΏΟΟΞ³Ξ·ΟƒΞµ ΞΞµΟ„Ξ±Ξ»Ξ»ΞΉΞΊΟ Ξ Ξ±ΟΞ¬ΞΈΟ…ΟΞΏ EΟ€. 2",
+    MultiStageBuild_CreateMetalWindow_1 = "Δημιούργησε Μεταλλικό Παράθυρο Eπ. 1",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "Αναβάθμισε σε Μεταλλικό Παράθυρο Eπ. 2",
+    MultiStageBuild_CreateMetalWindow_2 = "Δημιούργησε Μεταλλικό Παράθυρο Eπ. 2",
     -- wooden door frame
-    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Ξ‘Ξ½Ξ±Ξ²Ξ¬ΞΈΞΌΞΉΟƒΞµ ΟƒΞµ ΞΟΞ»ΞΉΞ½ΞΏ ΞΞ¬ΟƒΟ‰ΞΌΞ± Ξ ΟΟΟ„Ξ±Ο‚ EΟ€. 2",
-    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Ξ‘Ξ½Ξ±Ξ²Ξ¬ΞΈΞΌΞΉΟƒΞµ ΟƒΞµ ΞΟΞ»ΞΉΞ½ΞΏ ΞΞ¬ΟƒΟ‰ΞΌΞ± Ξ ΟΟΟ„Ξ±Ο‚ EΟ€. 3",
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Αναβάθμισε σε Ξύλινο Κάσωμα Πόρτας Eπ. 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Αναβάθμισε σε Ξύλινο Κάσωμα Πόρτας Eπ. 3",
 }
 
